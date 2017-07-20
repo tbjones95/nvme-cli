@@ -1716,7 +1716,6 @@ static int format(int argc, char **argv, struct command *cmd, struct plugin *plu
 			}
 
 			bsBaseChange = log(cfg.bs)/log(2);
-
 		}
 
 		if(cfg.lbads < 9){
